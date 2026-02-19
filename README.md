@@ -1,19 +1,18 @@
 <h1 align="center">Hi, I'm Pakapol Polpinich 👋</h1>
 
-<p align="center">
+<h3 align="center">
 Passionate about Embedded Systems, Firmware, and Software Development 🤖
-</p>
+</h3>
 
 ---
-### About Me
-- 🎓 Electronics Engineering Student at King Mongkut's Institute of Technology Ladkrabang  
-- 🔧 Interested in hardware–software integration  
 
-### 🧠 Knowledge Base
+## About Me
+- 🎓 Electronics Engineering Student at King Mongkut's Institute of Technology Ladkrabang
+- 🔧 Interested in hardware-software integration
 
-#### 💻 Languages
-- C / C++  
-- Verilog HDL  
-- Python  
+## 🧠 Knowledge Base
 
----
+### 💻 Languages
+- C / C++
+- Verilog HDL
+- Python
