@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Pakapol Polpinich 👋</h1>
+<h1 align="center">Hi, I'm Pakapol Polpinich <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 
 <h3 align="center">
 Passionate about Embedded Systems, Firmware, and Software Development 🤖
