@@ -5,7 +5,8 @@
 Passionate about Embedded Systems, Firmware, and Software Development 🤖
 </h3>
 
-<hr style="border: 0.5px solid #ccc;">
+<hr style="height:1px;border:none;background-color:#d0d7de;">
+
 
 ## About Me
 - 🎓 Electronics Engineering Student at King Mongkut's Institute of Technology Ladkrabang
