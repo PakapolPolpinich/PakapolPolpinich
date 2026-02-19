@@ -16,3 +16,6 @@ Passionate about Embedded Systems, Firmware, and Software Development 🤖
 - C / C++
 - Verilog HDL
 - Python
+
+---
+
