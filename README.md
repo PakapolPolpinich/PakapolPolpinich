@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Pakapol Polpinich <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 
-<!--
-**PakapolPolpinich/PakapolPolpinich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Passionate about Embedded Systems, Firmware, and Software Development 🤖
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- 🎓 Electronics Engineering Student at King Mongkut's Institute of Technology Ladkrabang
+- 🔧 Interested in hardware-software integration
+
+## 🧠 Knowledge Base
+
+### 💻 Languages
+- C / C++
+- Verilog HDL
+- Python
+
+---
+
